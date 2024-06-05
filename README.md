@@ -33,7 +33,7 @@ This project includes the following steps:
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/video-processing-multimodal-index.git
+    git clone https://github.com/imranajec/video-processing-multimodal-index.git
     cd video-processing-multimodal-index
     ```
 
