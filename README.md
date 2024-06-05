@@ -39,7 +39,7 @@ This project includes the following steps:
 
 2. **Open the Jupyter Notebook**:
 
-    Upload `Video_to_Text_and_Image_Retrieval.ipynb` to your Google Colab and open it.
+    Upload `Video_Processing_and_Multimodal_index.ipynb` to your Google Colab and open it.
 
 3. **Set the OpenAI API key**:
 
